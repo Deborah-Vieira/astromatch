@@ -1,13 +1,10 @@
 <h1 align="center">
-  <img alt="Tela Inicial" title="#TelaAstromatch" src="./assets/astromatch.png" />
+  <img alt="Tela Inicial"  src="./assets/astromatch.png" />
 </h1>
 <h1 align="center">Astromatch</h1>
 <p align="center">Projeto confeccionado no curso de Desenvolvedor(a) fullstack da Labenu. O projeto tem como finalizade demonstrar o uso dos Hooks e algumas  funcionalidades usando uma api externa.</p>
 
-<h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 React</a>
-</h1>
-<p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
+
 
 # :ledger: Índice
 <!--ts-->
