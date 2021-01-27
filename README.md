@@ -28,20 +28,20 @@ v12.20.1
 $ npm -v
 6.14.10</p>
 
-Em seu computador, baixe o repositório:
+#### Em seu computador, baixe o repositório:
 <p> Clonar o repositório:</p>
 <p>$ git clone https://github.com/Deborah-Vieira/astromatch.git
 </p>
 	
-<p>Entrar no diretório: </p>
+#### Entrar no diretório: 
 <p>$ cd astromatch
 </p>
 
-<p>Instalar as dependências: </p>
+#### Instalar as dependências: 
 <p>$ npm install 
 </p>
 
-<p>Iniciar o projeto</p>
+#### Iniciar o projeto: 
 <p> $ npm start </p>
 <p> O navegador irá abrir uma aba com o astromatch executando.</p>
 
