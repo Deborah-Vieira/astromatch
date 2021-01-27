@@ -1,9 +1,7 @@
-<h1 align="center">
-  <img alt="Tela Inicial"  src="./assets/astromatch.png" />
-</h1>
-<h1 align="center">Astromatch</h1>
-<p align="center">Projeto confeccionado no curso de Desenvolvedor(a) fullstack da Labenu. O projeto tem como finalizade demonstrar o uso dos Hooks e algumas  funcionalidades usando uma api externa.</p>
+<h1 >Astromatch</h1>
+<p >Projeto confeccionado no curso de Desenvolvedor(a) fullstack da Labenu. O projeto tem como finalizade demonstrar o uso de Estado em componentes funcionais utilizando Hooks.</p>
 
+  ![astromatch](https://user-images.githubusercontent.com/31224361/106056128-13b31e00-60cd-11eb-87a1-21b93b4a94d3.png)
 
 
 # :ledger: Índice
