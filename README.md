@@ -19,24 +19,26 @@
 
 ## :wrench:   Instalação
 ####   instale o Git, NodeJS e npm:
-#### <p> Versões mínimas ou superiores.
+<p> Versões mínimas ou superiores.</p>
+	
 $ node -v
 v12.20.1
+
   
 $ npm -v
 6.14.10</p>
 
-#### Em seu computador, baixe o repositório:
-<p> Clonar o repositório
+Em seu computador, baixe o repositório:
+<p> Clonar o repositório</p>
 $ git clone http
-
-#### Entrar no diretório
+	
+<p>Entrar no diretório
 $ cd nome do projeto
 
-#### Instalar as dependências
+<p>Instalar as dependências</p>
 $ npm install 
 
-#### Iniciar o projeto
+<p>Iniciar o projeto</p>
 <p> $ npm start </p>
 <p> O navegador irá abrir uma aba com o astromatch rodando.</p>
 
