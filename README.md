@@ -43,7 +43,7 @@ Em seu computador, baixe o repositório:
 
 <p>Iniciar o projeto</p>
 <p> $ npm start </p>
-<p> O navegador irá abrir uma aba com o astromatch rodando.</p>
+<p> O navegador irá abrir uma aba com o astromatch executando.</p>
 
 
 ## :bar_chart:  Testes
