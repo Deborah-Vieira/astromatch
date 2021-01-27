@@ -29,11 +29,11 @@ $ npm -v
 6.14.10</p>
 
 Em seu computador, baixe o repositório:
-<p> Clonar o repositório</p>
-$ git clone http
+<p> Clonar o repositório:</p>
+$ git clone https://github.com/Deborah-Vieira/astromatch.git
 	
 <p>Entrar no diretório
-$ cd nome do projeto
+$ cd astromatch
 
 <p>Instalar as dependências</p>
 $ npm install 
@@ -44,10 +44,10 @@ $ npm install
 
 
 ## :bar_chart:  Testes
-<p>Utilizei o Jest para testar a função que chama os matches, e caso não haja se a mensagem aparece em tela. Esse teste fornece a informação que a requisição está funcionando perfeitamente e que os perfis estão sendo renderizados em tela. Para rodar os testes é necessário</p>
+<p>Utilizei o Jest para testar a função que chama os matches, e caso não haja se a mensagem aparece em tela. Esse teste fornece a informação que a requisição está funcionando perfeitamente e que os perfis estão sendo renderizados em tela. Para rodar os testes é necessário abrir o terminal dentro do seu editor de códigos e rodar o comando: npm test.</p>
 
 ## :hammer: Tecnologias e Bibliotecas
-<p>React, Styled-Components, Axios, material-ui/core</p>
+<p>React</p> <p>Styled-Components</p> <p>Axios</p> <p>material-ui/core</p>
  
 ## Features
 - [x] Tela inicial
