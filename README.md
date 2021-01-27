@@ -32,7 +32,7 @@ Em seu computador, baixe o repositório:
 <p> Clonar o repositório:</p>
 $ git clone https://github.com/Deborah-Vieira/astromatch.git
 	
-<p>Entrar no diretório
+<p>Entrar no diretório</p>
 $ cd astromatch
 
 <p>Instalar as dependências</p>
