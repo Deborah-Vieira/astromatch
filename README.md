@@ -16,6 +16,8 @@
 ##     :pencil2:  Sobre
 <p>O projeto foi desenvolvido no terceiro módulo do curso. Módulo esse que, abordou uma forma de usar Estado em componentes funcionais, utilizando os hooks, o que antes só era possivel em componentes de classe. Nessa aplicação, há dois hooks, o useState que lida com o estado e o useEffect, ele sozinho consegue torna-se vários métodos de ciclo de vida de componentes de classe, por exemplo, DidMount e DidUpdate. Há também uso de uma api externa, responsável por enviar os perfis para matches.</p>
 
+![gif](https://user-images.githubusercontent.com/31224361/106182119-2dac3980-617d-11eb-88f0-62a8fed97b26.gif)
+
 
 ## :wrench:   Instalação
 ####   instale o Git, NodeJS e npm:
