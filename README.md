@@ -22,29 +22,32 @@
 ## :wrench:   Instalação
 ####   instale o Git, NodeJS e npm:
 <p> Versões mínimas ou superiores.</p>
-	
+```	
 $ node -v
 v12.20.1
-
   
 $ npm -v
 6.14.10</p>
-
+```
 #### Em seu computador, baixe o repositório:
 <p> Clonar o repositório:</p>
-<p>$ git clone https://github.com/Deborah-Vieira/astromatch.git
-</p>
+```
+$ git clone https://github.com/Deborah-Vieira/astromatch.git 
+```
+
 	
 #### Entrar no diretório: 
-<p>$ cd astromatch
-</p>
+```$ cd astromatch 
+```
 
 #### Instalar as dependências: 
-<p>$ npm install 
-</p>
+```$ npm install
+```
+
 
 #### Iniciar o projeto: 
-<p> $ npm start </p>
+``` $ npm start 
+```
 <p> O navegador irá abrir uma aba com o astromatch executando.</p>
 
 
